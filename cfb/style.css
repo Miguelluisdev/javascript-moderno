@@ -1,0 +1,10 @@
+@import 'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css';
+
+i {
+  margin-left: -25px;
+  cursor: pointer;
+}
+
+#text {
+  display: none;
+}
